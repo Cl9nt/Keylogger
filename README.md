@@ -15,3 +15,13 @@
 # listener = record key strokes & pass the function, .join() to join to 
 
 ### A key is pressed, listener is triggered and calls our function to log keystrokes into the file ###
+
+
+NOTE : YOU ARE FREE TO COPY,MODIFY,REUSE FOR EDUCATIONAL PURPOSE ONLY.
+
+Pynput 
+
+This library allows you to control and monitor input devices.
+
+Currently, mouse and keyboard input and monitoring are supported.
+
